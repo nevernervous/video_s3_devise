@@ -34,10 +34,13 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+
+gem 'aws-sdk', '~> 2'
+gem 'delayed_job_active_record'
 gem 'bootstrap-sass'
 gem 'devise', '4.2.0'
 gem 'paperclip', '5.0.0'
-gem 'delayed_job_active_record'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

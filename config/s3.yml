@@ -1,0 +1,5 @@
+s3_region: us-east-1
+s3_host_name: s3.amazonaws.com
+bucket: hdprotech
+access_key_id: AKIAIQ7C3Z5GSZFCCKKQ
+secret_access_key: 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
